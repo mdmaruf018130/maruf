@@ -1,0 +1,22 @@
+body{
+	
+	background-image: url("ocean.jpg");
+	background-position: center center;
+}
+
+p{
+	color:yellow;
+}
+div{
+	background-image: url("C:\Users\DCS\Downloads\ocean.jpg");
+}
+
+.left{
+	margin-left: 1px;
+	margin-right: 50px;
+}
+
+.right{
+	margin-left: 600px;
+	margin-right: 5px;
+}
